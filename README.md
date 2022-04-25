@@ -1,4 +1,4 @@
-<h1 align="center">CEEP - Notes </h1>
+<h1 align="center">Task timer</h1>
 
 <p align="center">💻 A React.JS web application of a task timer</p>
 
